@@ -1,3 +1,3 @@
 # SchittsCreek
 
-This project was built using HTML, CSS & JavaScript to create a website featuring the TV show Schitts Creek
+This website theme was inspired by the TV show Schitts Creek and created using HTML, CSS & JavaScript
